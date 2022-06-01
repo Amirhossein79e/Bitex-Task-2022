@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home" android:icon="@drawable/ic_home" android:id="@+id/home"> </item>
+    <item android:title="Chart" android:icon="@drawable/ic_chart" android:id="@+id/chart"> </item>
+    <item android:title="Trade" android:icon="@drawable/ic_trade" android:id="@+id/trade"> </item>
+    <item android:title="Orders" android:icon="@drawable/ic_order" android:id="@+id/orders"> </item>
+    <item android:title="Wallet" android:icon="@drawable/ic_wallet" android:id="@+id/wallet"> </item>
+
+</menu>

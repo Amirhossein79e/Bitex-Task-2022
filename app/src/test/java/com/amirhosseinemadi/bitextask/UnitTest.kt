@@ -12,10 +12,10 @@ import org.junit.Test
 import org.junit.Assert.*
 import org.junit.Before
 import org.junit.runner.RunWith
-import org.mockito.junit.MockitoJUnitRunner
+import org.junit.runners.JUnit4
 import retrofit2.Retrofit
 
-@RunWith(MockitoJUnitRunner::class)
+@RunWith(JUnit4::class)
 class UnitTest {
 
     private lateinit var retrofit:Retrofit
